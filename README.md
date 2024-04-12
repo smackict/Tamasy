@@ -1,12 +1,11 @@
 
-# TAMASY
+<img align = "center" class="center" style = "display: block; margin-left: auto; margin-right: auto; width: 50%;" src = "https://github.com/smackict/tamasy/blob/main/demo.png">
+
+#                                                                 <h1 align = "center">TAMASY</h1>
 
 Pascal and Tenywa's dumb tax management system.
 
 
-## Screenshots
-
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
 
 ## Authors
