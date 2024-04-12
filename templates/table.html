@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Pascal Tax Management</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+</head>
+<body>
+
+<div class="container">
+  <h2>Pascal's Tax Management</h2>
+  <table class="table">
+    <thead>
+      <tr>
+        <th>Business Name</th>
+        <th>Tax ID</th>
+        <th>Expected Tax</th>
+        <th>Actual Tax</th>
+        <th>Tax Difference</th>
+        <th>Tax Growth Rate</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr class = "success">
+        <td>{{ company_name }}</td>
+        <td>{{ tax_id }}</td>
+        <td>{{ expected_tax }}</td>
+        <td>{{ actual_tax }}</td>
+        <td>{{ tax_diff }}</td>
+        <td>{{ tax_growth_rate }}</td>
+      </tr>      
+      
+    </tbody>
+  </table>
+</div>
+
+</body>
+</html>
+
