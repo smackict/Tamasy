@@ -3,7 +3,7 @@
 
 #                                                                 <h1 align = "center">TAMASY</h1>
 
-Pascal and Tenywa's dumb tax management system.
+Pascal and Tenywa's tax management system.
 
 
 
@@ -11,7 +11,7 @@ Pascal and Tenywa's dumb tax management system.
 ## Authors
 
 # - [*Mat_siko*](https://www.github.com/alvin-am)
-# - [*Sh._.ane*](https://www.github.com/qCokieq)
+# - [*Shane*](https://www.github.com/qCokieq)
 
 
 
